@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hi there! I'm Anish Kumar Singh I'm a passionate Full Stack web developer currently pursuing my 3rd year at IIT Dhanbad.
+Hi there! I'm Anish Kumar Singh, a passionate web developer currently in my third year at IIT Dhanbad. I'm the Founder and Lead Developer of the SESE Website, where I led a team to create a dynamic, user-friendly platform for the Society of Environmental Science and Engineering.
+
+In addition to my leadership experience, I've actively participated in hackathons, securing 1st place in the Internal Smart India Hackathon and 2nd place at an IIT Dhanbad Hackathon. These achievements have fueled my passion for innovation and creating impactful web applications.
+
+My expertise lies in the MERN stack—HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB—and I have a strong foundation in C, C++, and Data Structures & Algorithms.
+
 
 
 ## 🌐 Socials:
