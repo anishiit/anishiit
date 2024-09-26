@@ -20,7 +20,7 @@ Hi there! I'm Anish Kumar Singh, a passionate web developer currently in my thir
 
 In addition to my leadership experience, I've actively participated in hackathons, securing 1st place in the Internal Smart India Hackathon and 2nd place at an IIT Dhanbad Hackathon. These achievements have fueled my passion for innovation and creating impactful web applications.
 
-My expertise lies in the MERN stack—HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB—and I have a strong foundation in C, C++, and Data Structures & Algorithms.
+My expertise lies in the MERN stack—HTML, CSS, JavaScript, React, Next.js, Node.js, Express.js, MongoDB—and I have a strong foundation in C, C++, and Data Structures & Algorithms.
 
 
 
