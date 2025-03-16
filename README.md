@@ -17,13 +17,16 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 Hi there! I'm Anish Kumar Singh 👋
+
 I'm a passionate Full-Stack Developer and Tech Enthusiast, currently in my pre-final year at IIT (ISM) Dhanbad. My journey in tech revolves around building scalable web applications, AI-powered solutions, and startup MVPs.
 
 🚀 What I Do:
+
 Founder & Lead Developer of the SESE Website, leading a team to create a dynamic platform for the Society of Environmental Science and Engineering.
 Tech Head at E-Cell, spearheading technical innovations and maintaining the E-Cell website.
 Freelancer & Startup Enthusiast, having built 10+ projects and currently working on Aristove, my venture focused on Startup MVP Development.
 Hackathon Winner, securing 1st place in the Internal Smart India Hackathon and 2nd place at an IIT Dhanbad Hackathon.
+
 💡 My Tech Stack:
 
 Frontend: React.js, Next.js, TypeScript, Vue.js, HTML, CSS, JavaScript
