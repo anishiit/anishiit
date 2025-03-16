@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **anishiit/anishiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,25 +15,42 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hi there! I'm Anish Kumar Singh 👋
+# Hi there! 👋 I'm Anish Kumar Singh  
 
-I'm a passionate Full-Stack Developer and Tech Enthusiast, currently in my pre-final year at IIT (ISM) Dhanbad. My journey in tech revolves around building scalable web applications, AI-powered solutions, and startup MVPs.
+I'm a **Full-Stack Developer**, **Tech Enthusiast**, and **Startup Builder**, currently in my **pre-final year at IIT (ISM) Dhanbad**. My expertise spans across **web development, AI-powered applications, and startup MVP development**.  
 
-🚀 What I Do:
+## 🚀 What I Do  
+- 🔹 **Founder & Lead Developer** of the **SESE Website**, leading a team to build a dynamic platform.  
+- 🔹 **Tech Head at E-Cell**, driving technical initiatives and platform development.  
+- 🔹 **Freelancer & Startup Enthusiast**, having worked on **10+ projects** and building **Aristove**, my startup focused on MVP development.  
+- 🏆 **Hackathon Winner**:  
+  - 🥇 **1st Place** - Internal **Smart India Hackathon**  
+  - 🥈 **2nd Place** - **IIT Dhanbad Hackathon**  
 
-Founder & Lead Developer of the SESE Website, leading a team to create a dynamic platform for the Society of Environmental Science and Engineering.
-Tech Head at E-Cell, spearheading technical innovations and maintaining the E-Cell website.
-Freelancer & Startup Enthusiast, having built 10+ projects and currently working on Aristove, my venture focused on Startup MVP Development.
-Hackathon Winner, securing 1st place in the Internal Smart India Hackathon and 2nd place at an IIT Dhanbad Hackathon.
+## 💻 Tech Stack  
 
-💡 My Tech Stack:
+### 🔹 Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 
-Frontend: React.js, Next.js, TypeScript, Vue.js, HTML, CSS, JavaScript
-Backend: Node.js, Express.js, Flask, Spring Boot
-Databases: PostgreSQL, MongoDB
-AI & ML: Exploring NLP, LLM Training, AI-powered applications
-DevOps & Tools: Git, GitHub, Docker, CI/CD, Jira
-Languages: C, C++, JavaScript, Java , python
+### 🔹 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+
+### 🔹 Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+### 🔹 Languages  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+
 
 
 
