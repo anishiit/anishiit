@@ -25,6 +25,7 @@ Tech Head at E-Cell, spearheading technical innovations and maintaining the E-Ce
 Freelancer & Startup Enthusiast, having built 10+ projects and currently working on Aristove, my venture focused on Startup MVP Development.
 Hackathon Winner, securing 1st place in the Internal Smart India Hackathon and 2nd place at an IIT Dhanbad Hackathon.
 💡 My Tech Stack:
+
 Frontend: React.js, Next.js, TypeScript, Vue.js, HTML, CSS, JavaScript
 Backend: Node.js, Express.js, Flask, Spring Boot
 Databases: PostgreSQL, MongoDB
