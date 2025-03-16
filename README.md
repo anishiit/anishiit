@@ -16,11 +16,21 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hi there! I'm Anish Kumar Singh, a passionate web developer currently in my third year at IIT Dhanbad. I'm the Founder and Lead Developer of the SESE Website, where I led a team to create a dynamic, user-friendly platform for the Society of Environmental Science and Engineering.
+Hi there! I'm Anish Kumar Singh 👋
+I'm a passionate Full-Stack Developer and Tech Enthusiast, currently in my pre-final year at IIT (ISM) Dhanbad. My journey in tech revolves around building scalable web applications, AI-powered solutions, and startup MVPs.
 
-In addition to my leadership experience, I've actively participated in hackathons, securing 1st place in the Internal Smart India Hackathon and 2nd place at an IIT Dhanbad Hackathon. These achievements have fueled my passion for innovation and creating impactful web applications.
-
-My expertise lies in the MERN stack—HTML, CSS, JavaScript, React, Next.js, Node.js, Express.js, MongoDB—and I have a strong foundation in C, C++, and Data Structures & Algorithms.
+🚀 What I Do:
+Founder & Lead Developer of the SESE Website, leading a team to create a dynamic platform for the Society of Environmental Science and Engineering.
+Tech Head at E-Cell, spearheading technical innovations and maintaining the E-Cell website.
+Freelancer & Startup Enthusiast, having built 10+ projects and currently working on Aristove, my venture focused on Startup MVP Development.
+Hackathon Winner, securing 1st place in the Internal Smart India Hackathon and 2nd place at an IIT Dhanbad Hackathon.
+💡 My Tech Stack:
+Frontend: React.js, Next.js, TypeScript, Vue.js, HTML, CSS, JavaScript
+Backend: Node.js, Express.js, Flask, Spring Boot
+Databases: PostgreSQL, MongoDB
+AI & ML: Exploring NLP, LLM Training, AI-powered applications
+DevOps & Tools: Git, GitHub, Docker, CI/CD, Jira
+Languages: C, C++, JavaScript, Java , python
 
 
 
