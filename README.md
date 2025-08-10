@@ -24,8 +24,7 @@ I'm a **Full-Stack Developer**, **Tech Enthusiast**, and **Startup Builder**, cu
 - 🔹 **Tech Head at E-Cell**, driving technical initiatives and platform development.  
 - 🔹 **Freelancer & Startup Enthusiast**, having worked on **10+ projects** and building **Aristove**, my startup focused on MVP development.  
 - 🏆 **Hackathon Winner**:  
-  - 🥇 **1st Place** - Internal **Smart India Hackathon**  
-  - 🥈 **2nd Place** - **IIT Dhanbad Hackathon**  
+  
 
 
 
