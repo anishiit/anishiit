@@ -14,20 +14,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-# Hi there! 👋 I'm Anish Kumar Singh  
+# 💫 About Me
 
-I'm a **Full-Stack Developer**, **Tech Enthusiast**, and **Startup Builder**, currently in my **pre-final year at IIT (ISM) Dhanbad**. My expertise spans across **web development, AI-powered applications, and startup MVP development**.  
+## Hi there! 👋 I'm **Anish Kumar Singh**  
+
+I'm a **Full-Stack Developer**, **Tech Enthusiast**, and **Startup Builder**, currently in my **final year at IIT (ISM) Dhanbad**.  
+I specialize in **Full-Stack Development**, **AI-powered applications**, and **Startup MVP development** — transforming innovative ideas into scalable digital products.  
+
+---
 
 ## 🚀 What I Do  
-- 🔹 **Founder & Lead Developer** of the **SESE Website**, leading a team to build a dynamic platform.  
-- 🔹 **Tech Head at E-Cell**, driving technical initiatives and platform development.  
-- 🔹 **Freelancer & Startup Enthusiast**, having worked on **10+ projects** and building **Aristove**, my startup focused on MVP development.  
-- 🏆 **Hackathon Winner**:  
-  
+- 🔹 **Full-Stack Developer Intern at TechMatrix Japan, Tokyo (Summer 2025)** – contributed to **bug fixing, feature development, and performance enhancement** across frontend and backend systems, Received a **PPO (Pre-Placement Offer)**.
+- 🔹 **Full-Stack Intern at Grull (Dec 2024)** – built and optimized **2+ dynamic web applications** using React, Next.js, and Node.js, improving user engagement by **30%**.
+- 🔹 **Freelancer & Developer**, having delivered **10+ successful projects** for clients and startups across multiple domains.   
+- 🔹 **Tech Head at Concetto 2025 (Annual Tech Fest)**, where I managed and optimized the **entire website infrastructure**, ensuring smooth event operations. 
+- 🔹 **Tech Head at E-Cell, IIT (ISM) Dhanbad**, driving technical initiatives and leading the development of the official website and event platforms.   
+- 🔹 **Founder of Aristove** – a **startup studio** focused on **MVP development** and **tech solutions** for startups and early-stage businesses.   
+- 🔹 **Tech Head at SESE, IIT (ISM) Dhanbad**, leading a team to build a dynamic and user-friendly platform for the Society of Environmental Science and Engineering.  
 
+---
 
+## 💡 Interests  
+- 🌐 Full-Stack Development   
+- 🤖 Artificial Intelligence & NLP Applications  
+- 🚀 Startup Building & Product Development  
+- 🧠 System Design & Architecture  
 
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/anish74850/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anish-kumar-singh-19091b25b/) 
