@@ -23,7 +23,7 @@ I specialize in **Full-Stack Development**, **AI-powered applications**, and **S
 
 ---
 
-## 🚀 What I Do  
+## 💼 Experience & Leadership
 - 🔹 **Full-Stack Developer Intern at TechMatrix Japan, Tokyo (Summer 2025)** – contributed to **bug fixing, feature development, and performance enhancement** across frontend and backend systems, Received a **PPO (Pre-Placement Offer)**.
 - 🔹 **Full-Stack Intern at Grull (Dec 2024)** – built and optimized **2+ dynamic web applications** using React, Next.js, and Node.js, improving user engagement by **30%**.
 - 🔹 **Freelancer & Developer**, having delivered **10+ successful projects** for clients and startups across multiple domains.   
