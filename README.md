@@ -54,12 +54,8 @@ I specialize in **Full-Stack Development**, **AI-powered applications**, and **S
 # 📊 GitHub Stats:
 ![Anish's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=anishiit&show_icons=true&theme=dark)
 <br/>
-![Anish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anishiit&theme=dark)
-<br/>
 ![Anish's Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anishiit&layout=compact&theme=dark)
 
-## 🏆 GitHub Trophies
-![Anish's Trophies](https://github-profile-trophy.vercel.app/?username=anishiit&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anishiit&limit=5&theme=dark&combine_all_yearly_contributions=true)
