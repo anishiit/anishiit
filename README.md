@@ -52,12 +52,15 @@ I specialize in **Full-Stack Development**, **AI-powered applications**, and **S
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 # 📊 GitHub Stats:
-![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishiit&show_icons=true&theme=dark)
+![Anish's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=anishiit&show_icons=true&theme=dark)
+<br/>
 ![Anish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anishiit&theme=dark)
-![Anish's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishiit&layout=compact&theme=dark)
+<br/>
+![Anish's Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anishiit&layout=compact&theme=dark)
 
 ## 🏆 GitHub Trophies
 ![Anish's Trophies](https://github-profile-trophy.vercel.app/?username=anishiit&theme=radical)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anishiit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
